@@ -282,7 +282,7 @@ class dds(_algorithm):
             self.parameter()["maxbound"],
         )
         print(
-            "Starting the DDS algotrithm with " + str(repetitions) + " repetitions..."
+            "Starting the DDS algorithm with " + str(repetitions) + " repetitions..."
         )
 
         number_of_parameters = (

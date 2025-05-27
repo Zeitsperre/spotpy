@@ -79,7 +79,7 @@ class abc(_algorithm):
         """
         self.set_repetiton(repetitions)
         print(
-            "Starting the ABC algotrithm with " + str(repetitions) + " repetitions..."
+            "Starting the ABC algorithm with " + str(repetitions) + " repetitions..."
         )
         # Initialize ABC parameters:
         randompar = self.parameter()["random"]

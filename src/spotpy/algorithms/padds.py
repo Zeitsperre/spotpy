@@ -248,7 +248,7 @@ class padds(_algorithm):
         # Spotpy will not need this values.
         debug_results = []
         print(
-            "Starting the PADDS algotrithm with " + str(repetitions) + " repetitions..."
+            "Starting the PADDS algorithm with " + str(repetitions) + " repetitions..."
         )
         print(
             "WARNING: THE PADDS algorithm as implemented in SPOTPY is in an beta stage and not ready for production use!"

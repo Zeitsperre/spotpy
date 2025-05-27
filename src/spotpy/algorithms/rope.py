@@ -107,7 +107,7 @@ class rope(_algorithm):
         # wenn mehr parameter produziert werden sollen als reingehen, rechnet er sich tot (ngen>n)
         # Subsets < 5 führt manchmal zu Absturz
         print(
-            "Starting the ROPE algotrithm with " + str(repetitions) + " repetitions..."
+            "Starting the ROPE algorithm with " + str(repetitions) + " repetitions..."
         )
         self.set_repetiton(repetitions)
 

@@ -87,7 +87,7 @@ class fscabc(_algorithm):
         """
         self.set_repetiton(repetitions)
         print(
-            "Starting the FSCABC algotrithm with "
+            "Starting the FSCABC algorithm with "
             + str(repetitions)
             + " repetitions..."
         )
