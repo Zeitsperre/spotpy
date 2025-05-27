@@ -86,9 +86,7 @@ class fscabc(_algorithm):
             sets the limit for scout bee phase
         """
         self.set_repetiton(repetitions)
-        print(
-            f"Starting the FSCABC algorithm with {repetitions} repetitions..."
-        )
+        print(f"Starting the FSCABC algorithm with {repetitions} repetitions...")
         # Initialize FSCABC parameters:
         parset = self.parameter()
         randompar = parset["random"]

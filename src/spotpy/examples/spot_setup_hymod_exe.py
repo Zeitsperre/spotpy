@@ -6,7 +6,6 @@ This example implements the external hydrological model HYMOD into SPOTPY.
 """
 
 import os
-
 from distutils.dir_util import copy_tree, remove_tree
 
 import numpy as np

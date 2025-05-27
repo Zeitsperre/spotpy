@@ -18,7 +18,6 @@ except ImportError:
     import spotpy
 
 import os
-
 import sys
 from distutils.dir_util import copy_tree, remove_tree
 
